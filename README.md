@@ -1,3 +1,6 @@
+# This project is no longer maintained, Please use [robotframework-email](https://github.com/adiralashiva8/robotframework-email) project (which uses listener)
+
+
 # Robot Framework Results Email
 
 Send email with robotframework result (Suite, Test, Keyword and Execution time)
